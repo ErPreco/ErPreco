@@ -6,7 +6,7 @@
 
 ✏ I created some small projects for educational purposes.
 
-🎮 I experimented 2D and 3D **game developing** for 5 years by self-taught. See some of them [here](https://itch.io/dashboard).
+🎮 I experimented 2D and 3D **game developing** for 5 years by self-taught. See some of them on my [itch.io](https://aprecoma.itch.io/) dashboard.
 
 <h3>Coding Experience</h3>
 
