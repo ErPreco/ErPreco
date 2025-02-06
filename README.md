@@ -6,7 +6,7 @@
 
 ✏ I created some small projects for educational purposes.
 
-🎮 I experimented 2D and 3D, mobile and desktop **game developing** for 5 years by self-taught. <!-- See some of them on my [itch.io](https://aprecoma.itch.io/) dashboard. -->
+💪 I experimented 2D and 3D, mobile and desktop **game developing** for 5 years by self-taught. <!-- See some of them on my [itch.io](https://aprecoma.itch.io/) dashboard. -->
 
 ### Coding Languages and Tools
 
