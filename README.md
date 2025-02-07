@@ -2,11 +2,11 @@
 
 ### Education and Training
 
-🎓 A student at the **University of Padua**, finishing the Informatics Bachelor.
+🎓 I am student at the **University of Padua**, finishing the Informatics Bachelor.
 
 ✏ I created some small projects for educational purposes.
 
-💪 I experimented 2D and 3D, mobile and desktop **game developing** for 5 years by self-taught. <!-- See some of them on my [itch.io](https://aprecoma.itch.io/) dashboard. -->
+💪 5 year of self-taught **game developing**. Only a few games almost completed because I preferred experimenting 2D and 3D games, mobile and desktop, singleplayer and multiplayer, terrain generation etc. <!-- See some of them on my [itch.io](https://aprecoma.itch.io/) dashboard. -->
 
 ### Coding Languages and Tools
 
