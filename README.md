@@ -6,7 +6,7 @@
 
 ✏ I created some small projects for educational purposes.
 
-💪 4 year of self-taught **game development**. I completed only a few games because I preferred experimenting 2D and 3D games, mobile and desktop, singleplayer and multiplayer, terrain generation etc. <!-- See some of them on my [itch.io](https://aprecoma.itch.io/) dashboard. -->
+💪 4 year of self-taught **game development** with Unity. I completed only a few games because I preferred experimenting 2D and 3D games, mobile and desktop, singleplayer and multiplayer, terrain generation etc. See some of them on my [itch.io](https://aprecoma.itch.io/) dashboard.
 
 ### Coding Languages and Tools
 
