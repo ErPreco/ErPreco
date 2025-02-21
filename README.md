@@ -37,11 +37,9 @@
 <picture>
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40">
 </picture>
-<!-- <span> -->
-<a href="https://unity.com/">
+<picture>
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40">
-</a>
-<!-- </span> -->
+</picture>
 <picture>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40">
 </picture>
