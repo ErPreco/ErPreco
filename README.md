@@ -2,9 +2,9 @@
 
 ### Education and Training
 
-🎓 I am student at the **University of Padua**, finishing the Informatics Bachelor.
+🎓 I achieved the Bachelor Degree in Computer Science in 2025. Now I am studying at the **University of Trento** for the Master Degree in the same field.
 
-✏ I created some small projects for educational purposes.
+✏ I created some small projects for educational purposes during my university courses.
 
 💪 4 year of self-taught **game development** with Unity. I completed only a few games because I preferred experimenting 2D and 3D games, mobile and desktop, singleplayer and multiplayer, terrain generation etc. See some of them on my [itch.io](https://aprecoma.itch.io/) dashboard.
 
